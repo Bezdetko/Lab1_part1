@@ -112,7 +112,6 @@ public void print() {
         System.out.println();    
 }    
  
-
     public static void printAll(Country[] countries) {
         for(Country country: countries)
             country.print();
