@@ -16,7 +16,6 @@ public class Main {
             new Country("Monako", 2)
         };
         
-        Country.printAll(countries);
-        
+        Country.printAll(countries);    
     }
 }
