@@ -1,5 +1,7 @@
 package ru.avalon.javapp.devj110.countries;
 
+
+
 public class Country {
     private String name;
     private int square;
